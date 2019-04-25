@@ -9,6 +9,6 @@ These graphs are passed in to this program through txt files formatted in the fo
 
 The first value is the number of vertices in the graph. The second value is the number of vertices that the first vertex is adjacent to, followed by the values representing them. In this example, there are 4 vertices, and the first vertex (vertex 0) is adjacent to 3 verticies: 1, 2, and 3. Vertex 1 has 3 vertices adjacent to it, which are vertices 0, 2, and 3, and so on. The graph given in this example looks like the following:
 
-**image**
+<img src="images/ExampleGraph.png" width=400>
 
 The amount of whitespace separating each integer is arbitrary.
