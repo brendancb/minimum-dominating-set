@@ -19,4 +19,4 @@ The first value is the number of vertices in the graph. The second value is the 
 
 <img src="images/ExampleGraph.png" width=200>
 
-The amount of whitespace separating each integer is arbitrary.
+The amount of whitespace separating each integer is arbitrary in the input graph.
